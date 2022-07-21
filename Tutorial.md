@@ -57,6 +57,7 @@
 到官网上看以下两个案例，分别是碰撞和拖放（重点看碰撞小鼠）：
 
 https://doc.qt.io/qt-6/qtwidgets-graphicsview-collidingmice-example.html
+
 https://doc.qt.io/qt-6/qtwidgets-graphicsview-dragdroprobot-example.html
 
 ### 环境准备
