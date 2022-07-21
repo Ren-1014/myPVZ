@@ -4,9 +4,10 @@
 
 使用`C++`实现植物大战僵尸的`GUI`版本。
 
-详细介绍：Turtorial.md
+简明教程：`Turtorial.md`
 
 ref:
+
 https://doc.qt.io/qt-6/qtwidgets-graphicsview-collidingmice-example.html
 
 https://doc.qt.io/qt-6/qtwidgets-graphicsview-dragdroprobot-example.html
